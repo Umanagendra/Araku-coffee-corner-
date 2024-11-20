@@ -1,4 +1,4 @@
-# Araku-coffee-corner-
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
