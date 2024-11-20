@@ -90,6 +90,27 @@
     <section id="products">
         <h2>Our Products</h2>
         <div class="product">
+            <section id="products">
+  <h2>Our Products</h2>
+  
+  <!-- Product 1 -->
+  <div class="product">
+    <img src="images/coffee_powder.jpg" alt="Coffee Powder">
+    <h3>Araku Coffee Powder</h3>
+    <p>Premium coffee powder from the heart of Araku, 250g</p>
+    <p>Price: ₹250</p>
+    <button onclick="window.location.href='https://example.com/buy-coffee-powder'">Buy Now</button>
+  </div>
+
+  <!-- Product 2 -->
+  <div class="product">
+    <img src="images/coffee_shake.jpg" alt="Coffee Shake">
+    <h3>Araku Coffee Shake</h3>
+    <p>Delicious coffee shake with natural flavors, 500ml</p>
+    <p>Price: ₹150</p>
+    <button onclick="window.location.href='https://example.com/buy-coffee-shake'">Buy Now</button>
+  </div>
+</section>
             <h3>Coffee Powder</h3>
             <p>Premium Araku coffee powder, 250g</p>
             <a href="https://example.com/buy-coffee-powder" class="buy-now">Buy Now</a>
