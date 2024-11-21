@@ -55,7 +55,7 @@
         }
         .buy-now {
             background-color: #b5651d;
-            color: white;
+            color: green;
             padding: 10px 20px;
             text-decoration: none;
             border-radius: 5px;
@@ -65,7 +65,7 @@
         }
         footer {
             background-color: #3c2f2f;
-            color: white;
+            color: green;
             text-align: center;
             padding: 10px;
             position: relative;
